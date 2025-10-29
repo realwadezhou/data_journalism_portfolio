@@ -1,7 +1,7 @@
 ## Wade Zhou
 I am a veteran data journalist with a background in economics and statistics. I use a combination of data analysis and traditional journalism techniques to share insights about the world. I am interested in economics, finance, public policy, politics and technology. Below are a few highlights from my career over the years.
 
-I can be reached at notwade [at] gmail <dot> com.
+I can be reached at notwade [at] gmail [dot] com.
 
 
 ### Longer projects:
